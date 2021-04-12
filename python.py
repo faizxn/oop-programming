@@ -13,7 +13,7 @@ Tuple
 Dictionary
 
 
-# clear Screen -> import os -> os.system(‘cls’) /windows
+# clear Screen -> import os -> os.system(â€˜clsâ€™) /windows
 
 
 # Number:
@@ -36,7 +36,7 @@ Dictionary
 
 # String:
 
- Name= ’faiz’
+ Name= â€™faizâ€™
  Name * 5  -> faiz faiz faiz faiz faiz
 
 
@@ -44,13 +44,13 @@ Dictionary
 
 # Slicing up String:
 
- name=’bangladesh’
+ name=â€™bangladeshâ€™
  name[2]   -> n
  name[2:5] -> ngl
  name[:5] ->  bangl 
  name[5:] ->  adesh
 
- len(name) | len(“bangladesh”)
+ len(name) | len(â€œbangladeshâ€)
 
 
 
@@ -120,7 +120,7 @@ while numbers < 10:
  
 # Comment & Break:
 
- ‘’’’’’    #   -> Comment
+ â€˜â€™â€™â€™â€™â€™    #   -> Comment
 
 magicNum = 6
 

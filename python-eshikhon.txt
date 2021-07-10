@@ -1,0 +1,62 @@
+
+
+
+	mylist = []
+	mylist.append('Bangladesh')
+	print(mylist)
+	mylist.remove('Bangladesh')	
+	print(mylist)
+
+
+	mylist = ['Bangladesh', 'Canada', 'United State of America', 'Australia']
+	print(mylist)
+	mylist.reverse()
+	print(mylist)
+
+
+	mylist = ['Bangladesh', 99, 10.5, 'S']
+	print(type(mylist))
+	print(type(mylist[0]))
+	print(type(mylist[1]))
+	print(type(mylist[2]))
+
+					<class 'list'>
+					<class 'str'>
+					<class 'int'>
+					<class 'float'>
+					<class 'str'>
+
+
+
+	python set value cant repeat..
+	
+	my-set = {'A', 'B', 'C', 'A'}
+	print(my-set)						
+	print(type(my-set))					
+	
+	
+	+++++
+				
+ 
+	for i in range (1, 10):
+		print(f'9 * {i} = {9 * i}')
+
+
+	for i in range (1, 10):
+		print("9 * " + str(i) + " = " + str(9 * i))
+
+
+	nine = 9
+	for i in range (1, 10):
+		print(nine, " * ", nine, " = ", nine * i)
+
+
+
+	+++++
+
+	string - len.. count .. find.. replace.. split
+	
+	+++++
+	
+	
+	+++++

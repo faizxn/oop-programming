@@ -6,6 +6,10 @@
 	print(mylist)
 	mylist.remove('Bangladesh')	
 	print(mylist)
+	
+	mylist.pop()               || last value of the list will remove 	
+	del mylist[0]              || remove specific list value
+	
 
 
 	mylist = ['Bangladesh', 'Canada', 'United State of America', 'Australia']

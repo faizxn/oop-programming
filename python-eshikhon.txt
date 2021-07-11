@@ -10,6 +10,8 @@
 	mylist.pop()               || last value of the list will remove 	
 	del mylist[0]              || remove specific list value
 	
+	mylist.reverse()
+	
 
 
 	mylist = ['Bangladesh', 'Canada', 'United State of America', 'Australia']
